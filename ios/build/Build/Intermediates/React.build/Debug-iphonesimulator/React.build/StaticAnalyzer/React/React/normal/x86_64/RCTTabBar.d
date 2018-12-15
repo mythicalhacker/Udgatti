@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTView.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/mythicalhacker/letsdothis/Udgatti/node_modules/react-native/React/Views/UIView+React.h
